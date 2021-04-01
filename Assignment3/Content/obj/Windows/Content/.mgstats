@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/rohit/source/repos/CPI311_2019/Assignment3/Content/font.spritefont","C:/Users/rohit/source/repos/CPI311_2019/Assignment3/Content/bin/Windows/Content/font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0.3625666
+"C:/Users/rohit/source/repos/CPI311_2019/Assignment3/Content/SimpleShading.fx","C:/Users/rohit/source/repos/CPI311_2019/Assignment3/Content/bin/Windows/Content/SimpleShading.xnb","EffectProcessor","CompiledEffectContent",6134,6619,0.3740883
+"C:/Users/rohit/source/repos/CPI311_2019/Assignment3/Content/Sphere.FBX","C:/Users/rohit/source/repos/CPI311_2019/Assignment3/Content/bin/Windows/Content/Sphere.xnb","ModelProcessor","ModelContent",39360,24315,0.1763558
+"C:/Users/rohit/source/repos/CPI311_2019/Assignment3/Content/Square.png","C:/Users/rohit/source/repos/CPI311_2019/Assignment3/Content/bin/Windows/Content/Square.xnb","TextureProcessor","Texture2DContent",213,4181,0.0189493

@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/rohit/source/repos/CPI311_2019/Lab11/Content/font.spritefont","C:/Users/rohit/source/repos/CPI311_2019/Lab11/Content/bin/Windows/font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0.3749123
+"C:/Users/rohit/source/repos/CPI311_2019/Lab11/Content/Square.png","C:/Users/rohit/source/repos/CPI311_2019/Lab11/Content/bin/Windows/Square.xnb","TextureProcessor","Texture2DContent",213,4181,0.0312502

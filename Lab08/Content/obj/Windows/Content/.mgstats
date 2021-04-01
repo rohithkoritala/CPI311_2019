@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/rohit/source/repos/CPI311_2019/Lab08/Content/Gun.wav","C:/Users/rohit/source/repos/CPI311_2019/Lab08/Content/bin/Windows/Content/Gun.xnb","SoundEffectProcessor","SoundEffectContent",8707,8700,0.2672858
+"C:/Users/rohit/source/repos/CPI311_2019/Lab08/Content/SimpleShading.fx","C:/Users/rohit/source/repos/CPI311_2019/Lab08/Content/bin/Windows/Content/SimpleShading.xnb","EffectProcessor","CompiledEffectContent",6134,6619,0.3819785
+"C:/Users/rohit/source/repos/CPI311_2019/Lab08/Content/Sphere.FBX","C:/Users/rohit/source/repos/CPI311_2019/Lab08/Content/bin/Windows/Content/Sphere.xnb","ModelProcessor","ModelContent",39360,24315,0.1336087
+"C:/Users/rohit/source/repos/CPI311_2019/Lab08/Content/Square.png","C:/Users/rohit/source/repos/CPI311_2019/Lab08/Content/bin/Windows/Content/Square.xnb","TextureProcessor","Texture2DContent",213,4181,0.0329129

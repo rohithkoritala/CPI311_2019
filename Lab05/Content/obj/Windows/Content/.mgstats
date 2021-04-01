@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/rohit/source/repos/CPI311_2019/Lab05/Content/SimpleShading.fx","C:/Users/rohit/source/repos/CPI311_2019/Lab05/Content/bin/Windows/Content/SimpleShading.xnb","EffectProcessor","CompiledEffectContent",6168,6619,0.3730899
+"C:/Users/rohit/source/repos/CPI311_2019/Lab05/Content/Square.png","C:/Users/rohit/source/repos/CPI311_2019/Lab05/Content/bin/Windows/Content/Square.xnb","TextureProcessor","Texture2DContent",213,4181,0.2285256
+"C:/Users/rohit/source/repos/CPI311_2019/Lab05/Content/Torus.fbx","C:/Users/rohit/source/repos/CPI311_2019/Lab05/Content/bin/Windows/Content/Torus.xnb","ModelProcessor","ModelContent",27936,14521,0.2297121

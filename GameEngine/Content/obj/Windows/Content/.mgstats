@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/rohit/source/repos/CPI311_2019/GameEngine/Content/Bar.png","C:/Users/rohit/source/repos/CPI311_2019/GameEngine/Content/bin/Windows/Content/Bar.xnb","TextureProcessor","Texture2DContent",435,57541,0.11592
+"C:/Users/rohit/source/repos/CPI311_2019/GameEngine/Content/Gauge.png","C:/Users/rohit/source/repos/CPI311_2019/GameEngine/Content/bin/Windows/Content/Gauge.xnb","TextureProcessor","Texture2DContent",554,57541,0.0039676
+"C:/Users/rohit/source/repos/CPI311_2019/GameEngine/Content/SimpleShading.fx","C:/Users/rohit/source/repos/CPI311_2019/GameEngine/Content/bin/Windows/Content/SimpleShading.xnb","EffectProcessor","CompiledEffectContent",6132,6619,0.554729

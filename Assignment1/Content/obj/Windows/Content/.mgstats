@@ -1,0 +1,9 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/rohit/source/repos/CPI311_2019/Assignment1/Content/Bar.png","C:/Users/rohit/source/repos/CPI311_2019/Assignment1/Content/bin/Windows/Content/Bar.xnb","TextureProcessor","Texture2DContent",435,57541,0.1214419
+"C:/Users/rohit/source/repos/CPI311_2019/Assignment1/Content/Distance.png","C:/Users/rohit/source/repos/CPI311_2019/Assignment1/Content/bin/Windows/Content/Distance.xnb","TextureProcessor","Texture2DContent",2152,57541,0.1126985
+"C:/Users/rohit/source/repos/CPI311_2019/Assignment1/Content/explorer.png","C:/Users/rohit/source/repos/CPI311_2019/Assignment1/Content/bin/Windows/Content/explorer.xnb","TextureProcessor","Texture2DContent",17343,163925,0.1156377
+"C:/Users/rohit/source/repos/CPI311_2019/Assignment1/Content/File.spritefont","C:/Users/rohit/source/repos/CPI311_2019/Assignment1/Content/bin/Windows/Content/File.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0.25437
+"C:/Users/rohit/source/repos/CPI311_2019/Assignment1/Content/Font.spritefont","C:/Users/rohit/source/repos/CPI311_2019/Assignment1/Content/bin/Windows/Content/Font.xnb","LocalizedFontProcessor","SpriteFontContent",2426,939,0.0159581
+"C:/Users/rohit/source/repos/CPI311_2019/Assignment1/Content/Font1.spritefont","C:/Users/rohit/source/repos/CPI311_2019/Assignment1/Content/bin/Windows/Content/Font1.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0.0169137
+"C:/Users/rohit/source/repos/CPI311_2019/Assignment1/Content/Gauge.png","C:/Users/rohit/source/repos/CPI311_2019/Assignment1/Content/bin/Windows/Content/Gauge.xnb","TextureProcessor","Texture2DContent",554,57541,0
+"C:/Users/rohit/source/repos/CPI311_2019/Assignment1/Content/Square.png","C:/Users/rohit/source/repos/CPI311_2019/Assignment1/Content/bin/Windows/Content/Square.xnb","TextureProcessor","Texture2DContent",213,4181,0.0020154

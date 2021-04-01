@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/rohit/source/repos/CPI311_2019/Game1/Content/font.spritefont","C:/Users/rohit/source/repos/CPI311_2019/Game1/Content/bin/Windows/Content/font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0.2334838
+"C:/Users/rohit/source/repos/CPI311_2019/Game1/Content/Torus.fbx","C:/Users/rohit/source/repos/CPI311_2019/Game1/Content/bin/Windows/Content/Torus.xnb","ModelProcessor","ModelContent",27936,14521,0.3504356

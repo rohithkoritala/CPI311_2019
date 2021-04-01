@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/rohit/source/repos/CPI311_2019/Assignment3/Content/SimpleShading.fx</SourceFile>
+  <SourceTime>2019-11-05T15:42:21.5627011-07:00</SourceTime>
+  <DestFile>C:/Users/rohit/source/repos/CPI311_2019/Assignment3/Content/bin/Windows/Content/SimpleShading.xnb</DestFile>
+  <DestTime>2019-11-05T16:28:31.5937942-07:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2018-12-08T09:35:54-07:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T09:35:54-07:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/rohit/source/repos/CPI311_2019/FinalProject/Content/A-Wing.FBX</File>
+    <File>C:/Users/rohit/source/repos/CPI311_2019/FinalProject/Content/A-Wing_AO.png</File>
+    <File>C:/Users/rohit/source/repos/CPI311_2019/FinalProject/Content/A-Wing_Diff.png</File>
+    <File>C:/Users/rohit/source/repos/CPI311_2019/FinalProject/Content/blue.tga</File>
+    <File>C:/Users/rohit/source/repos/CPI311_2019/FinalProject/Content/bruh.wav</File>
+    <File>C:/Users/rohit/source/repos/CPI311_2019/FinalProject/Content/bullet.FBX</File>
+    <File>C:/Users/rohit/source/repos/CPI311_2019/FinalProject/Content/bullet1.FBX</File>
+    <File>C:/Users/rohit/source/repos/CPI311_2019/FinalProject/Content/engine_2.wav</File>
+    <File>C:/Users/rohit/source/repos/CPI311_2019/FinalProject/Content/engine3.wav</File>
+    <File>C:/Users/rohit/source/repos/CPI311_2019/FinalProject/Content/explosion2.wav</File>
+    <File>C:/Users/rohit/source/repos/CPI311_2019/FinalProject/Content/fire.png</File>
+    <File>C:/Users/rohit/source/repos/CPI311_2019/FinalProject/Content/fireboom.wav</File>
+    <File>C:/Users/rohit/source/repos/CPI311_2019/FinalProject/Content/font.spritefont</File>
+    <File>C:/Users/rohit/source/repos/CPI311_2019/FinalProject/Content/Galaxy.tga</File>
+    <File>C:/Users/rohit/source/repos/CPI311_2019/FinalProject/Content/glass.wav</File>
+    <File>C:/Users/rohit/source/repos/CPI311_2019/FinalProject/Content/god.FBX</File>
+    <File>C:/Users/rohit/source/repos/CPI311_2019/FinalProject/Content/hyperspace_activate.wav</File>
+    <File>C:/Users/rohit/source/repos/CPI311_2019/FinalProject/Content/omae.wav</File>
+    <File>C:/Users/rohit/source/repos/CPI311_2019/FinalProject/Content/p1_wedge.fbx</File>
+    <File>C:/Users/rohit/source/repos/CPI311_2019/FinalProject/Content/ParticleShader-complete.fx</File>
+    <File>C:/Users/rohit/source/repos/CPI311_2019/FinalProject/Content/pea_proj.tga</File>
+    <File>C:/Users/rohit/source/repos/CPI311_2019/FinalProject/Content/red.tga</File>
+    <File>C:/Users/rohit/source/repos/CPI311_2019/FinalProject/Content/SimpleShading.fx</File>
+    <File>C:/Users/rohit/source/repos/CPI311_2019/FinalProject/Content/Square.png</File>
+    <File>C:/Users/rohit/source/repos/CPI311_2019/FinalProject/Content/violet.tga</File>
+    <File>C:/Users/rohit/source/repos/CPI311_2019/FinalProject/Content/virus.FBX</File>
+    <File>C:/Users/rohit/source/repos/CPI311_2019/FinalProject/Content/virusSound.wav</File>
+    <File>C:/Users/rohit/source/repos/CPI311_2019/FinalProject/Content/wedge_p1_diff_v1.tga</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

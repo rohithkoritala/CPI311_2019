@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/rohit/source/repos/CPI311_2019/Lab09/Content/Box.FBX","C:/Users/rohit/source/repos/CPI311_2019/Lab09/Content/bin/Windows/Content/Box.xnb","ModelProcessor","ModelContent",15152,1501,0.2034563
+"C:/Users/rohit/source/repos/CPI311_2019/Lab09/Content/Sphere.FBX","C:/Users/rohit/source/repos/CPI311_2019/Lab09/Content/bin/Windows/Content/Sphere.xnb","ModelProcessor","ModelContent",39360,24315,0.008977

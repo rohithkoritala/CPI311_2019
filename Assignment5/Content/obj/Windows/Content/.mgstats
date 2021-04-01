@@ -1,0 +1,9 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/rohit/source/repos/CPI311_2019/Assignment5/Content/Font.spritefont","C:/Users/rohit/source/repos/CPI311_2019/Assignment5/Content/bin/Windows/Content/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0.2662844
+"C:/Users/rohit/source/repos/CPI311_2019/Assignment5/Content/mazeH.png","C:/Users/rohit/source/repos/CPI311_2019/Assignment5/Content/bin/Windows/Content/mazeH.xnb","TextureProcessor","Texture2DContent",15755,40085,0.013512
+"C:/Users/rohit/source/repos/CPI311_2019/Assignment5/Content/mazeH2.png","C:/Users/rohit/source/repos/CPI311_2019/Assignment5/Content/bin/Windows/Content/mazeH2.xnb","TextureProcessor","Texture2DContent",15755,40085,0.1037372
+"C:/Users/rohit/source/repos/CPI311_2019/Assignment5/Content/mazeN2.png","C:/Users/rohit/source/repos/CPI311_2019/Assignment5/Content/bin/Windows/Content/mazeN2.xnb","TextureProcessor","Texture2DContent",8627,40085,0.0019954
+"C:/Users/rohit/source/repos/CPI311_2019/Assignment5/Content/SimpleShading.fx","C:/Users/rohit/source/repos/CPI311_2019/Assignment5/Content/bin/Windows/Content/SimpleShading.xnb","EffectProcessor","CompiledEffectContent",4125,4419,0.3421298
+"C:/Users/rohit/source/repos/CPI311_2019/Assignment5/Content/Sphere.FBX","C:/Users/rohit/source/repos/CPI311_2019/Assignment5/Content/bin/Windows/Content/Sphere.xnb","ModelProcessor","ModelContent",39360,24315,0.1980758
+"C:/Users/rohit/source/repos/CPI311_2019/Assignment5/Content/Square.png","C:/Users/rohit/source/repos/CPI311_2019/Assignment5/Content/bin/Windows/Content/Square.xnb","TextureProcessor","Texture2DContent",213,4181,0.0349057
+"C:/Users/rohit/source/repos/CPI311_2019/Assignment5/Content/TerrainShader.fx","C:/Users/rohit/source/repos/CPI311_2019/Assignment5/Content/bin/Windows/Content/TerrainShader.xnb","EffectProcessor","CompiledEffectContent",2618,2739,0.3251487

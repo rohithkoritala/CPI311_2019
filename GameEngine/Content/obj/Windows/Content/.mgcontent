@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/rohit/source/repos/CPI311_2019/GameEngine/Content/Bar.png</File>
+    <File>C:/Users/rohit/source/repos/CPI311_2019/GameEngine/Content/Gauge.png</File>
+    <File>C:/Users/rohit/source/repos/CPI311_2019/GameEngine/Content/SimpleShading.fx</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
